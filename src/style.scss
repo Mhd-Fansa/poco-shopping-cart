@@ -1,0 +1,6 @@
+@import './styles/variables.scss';
+@import './styles/list.scss';
+@import './styles/cart.scss';
+body {
+  background-color: $bg-color !important;
+}

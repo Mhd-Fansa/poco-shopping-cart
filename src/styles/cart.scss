@@ -1,0 +1,14 @@
+.shopping-cart-container {
+    .shopping-cart-title {
+        padding: 1em;
+        text-align: center
+    }
+    li {
+        padding: 0.5em;
+    }
+}
+
+.cart-item-title {
+    font-size: $card-font-size;
+    font-weight: bold !important;
+}
